@@ -1,68 +1,49 @@
-# [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
+# New Age Jekyll theme
+=========================
 
-[Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+# The project is no longer maintained
 
-## Preview
+## If you are a company and you're going to use the blog: 
+1. contact bootstrap start up and ask.
+2. contact me because there is to remove some useless part.
 
-[![Agency Preview](https://startbootstrap.com/assets/img/screenshots/themes/agency.png)](https://blackrockdigital.github.io/startbootstrap-agency/)
+Jekyll theme based on [New Age bootstrap theme ](https://startbootstrap.com/template-overviews/new-age/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
+# Demo
+View this jekyll theme in action [here](https://jekynewage.github.io/)
 
-## Status
+## Built by
+[Antonio Trento](https://it.linkedin.com/in/antoniotrento)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
+This Jekyll template was created to develop, landing pages, squeeze pages, portfolio and blog or all the above.
 
-## Download and Installation
+### I integrated analytical tools and marketing such as:
+- Google Ad Words
+- Google analytics
+- Disqus comment system
+- Add This social sharing
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
-* Install via npm: `npm i startbootstrap-agency`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-agency)
+>>External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js
 
-## Usage
+In order to set your log data to applications _config.yml just open the file and find the associated items.
 
-### Basic Usage
+I also built a system to add their own names on the same company files
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+**To change the base colors yellow go in css folder there main.css where you can set the primary color and the secondary color, remember that the theme is gradient in the background areas**
 
-### Advanced Usage
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+If you are interested in implementing this theme please contact me without any problems I will do what is in my power to help you!
 
-#### Gulp Tasks
+If you have noticed anything unusual or errors in my development I ask you kindly let me know or send a pull request!
 
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+Any opinion and critical comment is welcome! So give us inside!
 
-You must have npm installed globally in order to use this build environment.
+We can get in touch by:
 
-## Bugs and Issues
+1. By <a href="https://twitter.com/lantoniotrento">twitter</a>
+2. mail <a href="mailto:lantoniotrento@gmail.com">lantoniotrento[at]gmail.com</a>
+3. Via <a href="https://it.linkedin.com/in/antoniotrento">LinkedIn</a>
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+=========
 
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+For more details, read the [documentation](http://jekyllrb.com/)
