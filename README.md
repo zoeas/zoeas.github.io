@@ -1,49 +1,68 @@
-# New Age Jekyll theme
-=========================
+# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
-# The project is no longer maintained
+[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## If you are a company and you're going to use the blog: 
-1. contact bootstrap start up and ask.
-2. contact me because there is to remove some useless part.
+## Preview
 
-Jekyll theme based on [New Age bootstrap theme ](https://startbootstrap.com/template-overviews/new-age/)
+[![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
 
-# Demo
-View this jekyll theme in action [here](https://jekynewage.github.io/)
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
 
-## Built by
-[Antonio Trento](https://it.linkedin.com/in/antoniotrento)
+## Status
 
-This Jekyll template was created to develop, landing pages, squeeze pages, portfolio and blog or all the above.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-new-age/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)](https://www.npmjs.com/package/startbootstrap-new-age)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
 
-### I integrated analytical tools and marketing such as:
-- Google Ad Words
-- Google analytics
-- Disqus comment system
-- Add This social sharing
+## Download and Installation
 
->>External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/new-age/)
+* Install via npm: `npm i startbootstrap-new-age`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-new-age)
 
-In order to set your log data to applications _config.yml just open the file and find the associated items.
+## Usage
 
-I also built a system to add their own names on the same company files
+### Basic Usage
 
-**To change the base colors yellow go in css folder there main.css where you can set the primary color and the secondary color, remember that the theme is gradient in the background areas**
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
+### Advanced Usage
 
-If you are interested in implementing this theme please contact me without any problems I will do what is in my power to help you!
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-If you have noticed anything unusual or errors in my development I ask you kindly let me know or send a pull request!
+#### Gulp Tasks
 
-Any opinion and critical comment is welcome! So give us inside!
+- `gulp` the default task that builds everything
+- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+- `gulp js` minifies the themes JS file
+- `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-We can get in touch by:
+You must have npm installed globally in order to use this build environment.
 
-1. By <a href="https://twitter.com/lantoniotrento">twitter</a>
-2. mail <a href="mailto:lantoniotrento@gmail.com">lantoniotrento[at]gmail.com</a>
-3. Via <a href="https://it.linkedin.com/in/antoniotrento">LinkedIn</a>
+## Bugs and Issues
 
-=========
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-new-age/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/).
 
-For more details, read the [documentation](http://jekyllrb.com/)
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
